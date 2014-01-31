@@ -137,6 +137,6 @@ plot (y~x2, ylab= "blood pressure", xlab= "weight", main= "Blood Pressure Vs WEI
 plot (y~x1, ylab= "blood pressure", xlab= "Age")
 
 
-#legend code
+#legend
 
 legend(3.5, 10, "x", lty =1, lwd=6, col ="green" )
